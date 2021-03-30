@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JDMq6Q9y0Gi8BD5aGv2JP/gAnJmsLmMG8s6NrKw+F6XrOiaXZDvmlW3QfcZvQTX46KJPBFbuUXBLeLSKa/h5uA==",
+  "dgSpecHash": "gB/Ll4OU4Ke9v4RO85ygM/BbSABXNrs8WjavVM0YoQNYw3Leo+jOtbJmnAZOrk70aw//ODWrmCVucfsmaBAazA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Modul_3_HW_5_Async\\Modul_3_HW_5\\Modul_3_HW_5.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Source\\Repos\\VavriichukDima\\Modul_3_HW_5_Asynchronous\\Modul_3_HW_5_Async\\Modul_3_HW_5\\Modul_3_HW_5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
